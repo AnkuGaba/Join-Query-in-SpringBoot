@@ -9,6 +9,7 @@ public class JoinqueryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JoinqueryApplication.class, args);
 		System.out.println("server start jenkins all");
+		System.out.println("join query works!");
 	}
 
 }
