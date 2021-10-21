@@ -11,6 +11,7 @@ public class JoinqueryApplication {
 		System.out.println("server start jenkins all");
 		System.out.println("join query application works!");
 		System.out.println("htrgfsdx");
+		System.out.println("ankush");
 	}
 
 }
